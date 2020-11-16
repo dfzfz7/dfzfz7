@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Daniel Fernández 👋  
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="200" height="240" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="400" height="500" />
 
 - 🏡 I'm currently living near Barcelona
 - 💻 Self-motivated Junior Developer
