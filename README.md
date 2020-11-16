@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Fernández 👋  
 
-- 🏡 I'm currently living near Barcelona
+- 🏡 Currently living near Barcelona
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to pursuing a career change into IT 
 - 💼 17 years of experience in tourism and hospitality
@@ -24,6 +24,6 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="100" height="50" />
 </p>
 
-<br> <br>
+<br>
 
 <img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="450" height="200" />
