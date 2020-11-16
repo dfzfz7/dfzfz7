@@ -1,9 +1,8 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="400" height="500" />
+
 <img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="480" height="180" />
 
-
 ### Hi there, I'm Daniel Fernández 👋  
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="400" height="500" />
 
 - 🏡 I'm currently living near Barcelona
 - 💻 Self-motivated Junior Developer
@@ -14,7 +13,6 @@
 - 🌱 Currently learning Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />
 
 For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) 
-
 
 ### My skills include:
 
@@ -28,7 +26,3 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="Git" alt="Git" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/git.png" width="50" height="50" />
   <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="100" height="50" />
 </p>
-
-<p></p>
-
-
