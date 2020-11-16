@@ -1,8 +1,8 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="400" height="500" />
+<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="380" height="180" />
 
 ### Hi there, I'm Daniel Fernández 👋  
 
-<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="350" height="150" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="320" height="420" />
 
 - 🏡 I'm currently living near Barcelona
 - 💻 Self-motivated Junior Developer
