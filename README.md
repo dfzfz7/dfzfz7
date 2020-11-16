@@ -18,7 +18,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 <p>
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="40" />
-  <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="40" height="40" />
+  <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="30" height="40" />
   <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="40" height="40" />
   <img title="MongoDB" alt="MongoDB" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mongodb.png" width="40" height="40" />
   <img title="Firebase" alt="Firebase" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/firebase.png" width="30" height="40" />
@@ -29,4 +29,4 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 
 
-       <img alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="200" height="240" >
+<img align="center" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="200" height="240" />
