@@ -8,7 +8,10 @@
 - 👓 About to start a course on Virtual Reality 
 - 🌱 Currently learning Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />
 
-## My skills include:
+For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) 
+<br>
+
+### My skills include:
 
 <p>
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
@@ -20,8 +23,6 @@
   <img title="Git" alt="Git" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/git.png" width="50" height="50" />
   <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="100" height="50" />
 </p>
-
-For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) 
 
 <br> <br>
 
