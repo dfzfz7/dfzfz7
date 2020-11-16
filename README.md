@@ -26,7 +26,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 <br> 
 
- 📓 Some research about [Smartphones and Internet along the Camino de Santiago](https://www.academia.edu/40521160/SMARTPHONE_USE_AND_INTERNET_ACCESS_ALONG_THE_CAMINO_DE_SANTIAGO)
+ 📓 Research about [Smartphones and Internet along the Camino de Santiago](https://www.academia.edu/40521160/SMARTPHONE_USE_AND_INTERNET_ACCESS_ALONG_THE_CAMINO_DE_SANTIAGO)
 
 <br>
 
