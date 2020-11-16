@@ -3,9 +3,11 @@
 
 ### Hi there, I'm Daniel Fernández 👋  
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="200" height="240" />
+
 - 🏡 I'm currently living near Barcelona
 - 💻 Self-motivated Junior Developer
-- 🎯 Committed to pursuing a career change in the IT sector 
+- 🎯 Committed to pursuing a career change into IT 
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
 - 👓 About to start a course on Virtual Reality 
@@ -29,4 +31,4 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 <p></p>
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="200" height="240" />
+
