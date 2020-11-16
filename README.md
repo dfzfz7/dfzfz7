@@ -24,8 +24,10 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="80" height="50" />
 </p>
 
-<br>📓 
- Some research about 📓 [Smartphones and Internet along the Camino de Santiago](https://www.academia.edu/40521160/SMARTPHONE_USE_AND_INTERNET_ACCESS_ALONG_THE_CAMINO_DE_SANTIAGO)
+<br> 
+
+ 📓 Some research about [Smartphones and Internet along the Camino de Santiago](https://www.academia.edu/40521160/SMARTPHONE_USE_AND_INTERNET_ACCESS_ALONG_THE_CAMINO_DE_SANTIAGO)
+
 <br>
 
 <img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="450" height="200" />
