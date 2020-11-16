@@ -29,4 +29,4 @@ For more details checkout my ➡️[LinkedIn profile](https://www.linkedin.com/i
 
 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="300" height="320" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/3ohhwBQ85EVPTLy42Q/giphy.gif" width="300" height="320">
