@@ -1,4 +1,4 @@
-<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="450" height="200" />
+
 
 ### Hi there, I'm Daniel Fernández 👋  
 
@@ -24,3 +24,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="Git" alt="Git" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/git.png" width="50" height="50" />
   <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="100" height="50" />
 </p>
+
+<br> <br>
+
+<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="450" height="200" />
