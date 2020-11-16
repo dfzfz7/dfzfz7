@@ -1,4 +1,4 @@
-<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="420" height="180" />
+<img title="Do Somehting Great" alt="Do Something Great" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/DoSomethingGreatSmall.jpg" width="450" height="200" />
 
 ### Hi there, I'm Daniel Fernández 👋  
 
