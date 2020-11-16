@@ -21,7 +21,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="Firebase" alt="Firebase" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/firebase.png" width="35" height="50" />
   <img title="MySQL" alt="MySQL" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mysql.png" width="65" height="50" />
   <img title="Git" alt="Git" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/git.png" width="50" height="50" />
-  <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="100" height="50" />
+  <img title="HTML CSS JavaScript" alt="HTML CSS JavaScript" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/html+css+js.png" width="80" height="50" />
 </p>
 
 <br>
