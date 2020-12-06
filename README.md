@@ -5,7 +5,7 @@
 - 🎯 Committed to pursuing a career change into IT 
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
-- 🥽 About to start a course on Virtual Reality 
+- 🥽 Just started a course on Virtual Reality 
 - 🌱 Currently learning Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />
 
 For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) 
