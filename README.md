@@ -8,7 +8,7 @@
 - 🥽 Just started a course on Virtual Reality 
 - 🌱 Currently learning Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />
 
-For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) or 📝[my CV/Resume](https://github.com/dfzfz7/Daniel Fernandez English CV.pdf)
+For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) or 📝[my CV/Resume](https://github.com/dfzfz7/DanielFernandezEnglishCV.pdf)
 <br>
 
 ### My skills include:
