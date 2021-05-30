@@ -1,12 +1,12 @@
 ### Hi there, I'm Daniel Fernández 👋  
 
-- 🏡 Currently living near Barcelona
+- 🥽 Passionate about Virtual & Augmented Reality 
 - 💻 Self-motivated Junior Developer
-- 🎯 Committed to pursuing a career change into IT 
+- 🎯 Committed to pursuing a career in VR and AR 
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
-- 🥽 Just started a course on Virtual Reality 
-- 🌱 Currently learning Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />  and Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="48" height="16" />
+- 🏡 Living near Barcelona
+- 🌱 Currently learning Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="48" height="16" /> and Angular <img title="Angular" alt="Angular" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/angular.png" width="16" height="16" />
 
 For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) or my 📝[CV/Resume](https://github.com/dfzfz7//dfzfz7/blob/main/DanielFernandezEnglishCV.pdf)
 <br>
@@ -25,6 +25,20 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 </p>
 
 <br> 
+
+### My latest VR and AR projects:
+
+<br> 
+
+### My latest Android projects:
+
+[Foottrips 🌍🦶](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
+
+<br>
+
+
+### My Research about Smartphones and Camino de Santiago:
+
 
  📓 Research about [Smartphone use along the Camino de Santiago](https://www.academia.edu/40521160/SMARTPHONE_USE_AND_INTERNET_ACCESS_ALONG_THE_CAMINO_DE_SANTIAGO)
 
