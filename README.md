@@ -62,13 +62,15 @@ Check out the full video 🎞️ [AR Android 3D Game with Card Targets - Unity +
 
 [<img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="24" height="24" />  Foottrips](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
 
+https://user-images.githubusercontent.com/62215554/120189631-e1026900-c217-11eb-84ff-d1bf23099383.mp4
+
 - 📝 Android Travel Diaries App.
 - 📍 Geolocated Footprints (Postcards).
 - 🗺️ Travel Map and Blog. 
 - 💻 Project Developed with Android Studio.
 - 📱 Demostration Recorded on an Android Phone.
 
-Check out the demostration video 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+Check out the demostration video (Spanish)🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
 
 <br>
 
