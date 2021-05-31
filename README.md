@@ -30,7 +30,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 ### My latest VR and AR projects:
 
-#### [VR Training for Car Workshop](https://github.com/dfzfz7/VR-Car-Workshop-Training)
+### [VR Training for Car Workshop](https://github.com/dfzfz7/VR-Car-Workshop-Training)
 
 https://user-images.githubusercontent.com/62215554/120158001-ec439d80-c1f3-11eb-9390-4d4e034f9360.mp4
 
@@ -44,7 +44,7 @@ Check out the full video 🎞️ [Unity VR Training for Car Workshop Demostratio
 
 <br> 
 
-#### [AR Android Gnomes Game](https://github.com/dfzfz7/AR-Android-Gnomes-Game)
+### [AR Android Gnomes Game](https://github.com/dfzfz7/AR-Android-Gnomes-Game)
 
 https://user-images.githubusercontent.com/62215554/120163450-cf11cd80-c1f9-11eb-81c2-45ab3f809d09.mp4
 
@@ -60,7 +60,7 @@ Check out the full video 🎞️ [AR Android 3D Game with Card Targets - Unity +
 
 ### My latest Android project:
 
-[<img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="24" height="24" />  Foottrips](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
+###[<img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="24" height="24" />  Foottrips - Geolocated Travel Diaries Application for Android](https://github.com/dfzfz7/Foottrips)
 
 https://user-images.githubusercontent.com/62215554/120189631-e1026900-c217-11eb-84ff-d1bf23099383.mp4
 
