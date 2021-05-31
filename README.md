@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel Fernández 👋  
 
 - 🥽 Passionate about Virtual & Augmented Reality 
-- 💻 Self-motivated Junior Developer
+- 💻 Self-motivated Unity, Android and Java Developer
 - 🎯 Committed to pursuing a career in VR and AR 
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
@@ -14,9 +14,11 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 ### My skills include:
 
 <p>
+  <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="70" height="50" />
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
   <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="40" height="50" />
   <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
+  <img title="3DSMax" alt="3DSMax" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/3DSmax.jpg" width="30" height="50" />
   <img title="MongoDB" alt="MongoDB" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mongodb.png" width="50" height="50" />
   <img title="Firebase" alt="Firebase" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/firebase.png" width="35" height="50" />
   <img title="MySQL" alt="MySQL" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mysql.png" width="65" height="50" />
@@ -30,7 +32,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 <br> 
 
-### My latest Android projects:
+### My latest Android project:
 
 [Foottrips 🌍🦶](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
 
