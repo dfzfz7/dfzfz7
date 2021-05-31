@@ -60,7 +60,7 @@ Check out the full video 🎞️ [AR Android 3D Game with Card Targets - Unity +
 
 ### My latest Android project:
 
-<img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="20" height="20" />[Foottrips](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
+[<img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="30" height="30" />  Foottrips](https://github.com/dfzfz7/Foottrips) - Geolocated Travel Diaries Application for Android
 
 - 📝 Android Travel Diaries App.
 - 📍 Geolocated Footprints (Postcards).
