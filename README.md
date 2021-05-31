@@ -14,10 +14,10 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 ### My skills include:
 
 <p>
-  <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="70" height="50" />
+  <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="60" height="50" />
+  <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
   <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="40" height="50" />
-  <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
   <img title="3DSMax" alt="3DSMax" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/3DSmax.jpg" width="30" height="50" />
   <img title="MongoDB" alt="MongoDB" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mongodb.png" width="50" height="50" />
   <img title="Firebase" alt="Firebase" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/firebase.png" width="35" height="50" />
@@ -29,6 +29,20 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 <br> 
 
 ### My latest VR and AR projects:
+
+#### VR Training for Car Workshop 
+
+https://user-images.githubusercontent.com/62215554/120158001-ec439d80-c1f3-11eb-9390-4d4e034f9360.mp4
+
+- 🦺 Security Quizes and Personal Protective Equipment (PPE).
+- 🛠️ Machine Handling Introduction and Guidance.
+- 🚗 3D Modelling (Workshop + Machine) with 3DS Max.
+- 💻 Project Developed with Unity.
+- 🥽 VR Headset: HP Reverb G2.
+
+Check out the full video 🎞️ [Unity VR Training for Car Workshop Demostration](https://odysee.com/@dfzfz7:b/VR-Car-Workshop-Training:e)
+
+#### AR Android Gnomes Game
 
 <br> 
 
