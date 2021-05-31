@@ -46,6 +46,15 @@ Check out the full video 🎞️ [Unity VR Training for Car Workshop Demostratio
 
 #### AR Android Gnomes Game
 
+
+- 🃏 AR Android 3D Game with Card Targets.
+- ✔️ Realtime Image Tracking. 
+- 🍀 Gnome Photogrammetry done with Agisoft Photoscan.
+- 💻 Project Developed with Unity and Vuforia.
+- 📱 Game recorded on an Android Phone.
+
+Check out the full video 🎞️ [Unity VR Training for Car Workshop Demostration](https://odysee.com/@dfzfz7:b/VR-Car-Workshop-Training:e)
+
 <br> 
 
 ### My latest Android project:
