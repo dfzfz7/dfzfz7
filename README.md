@@ -6,7 +6,7 @@
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
 - 🏡 Living near Barcelona
-- 🌱 Currently learning Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="16" height="16" /> and C# <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png" width="16" height="16" />
+- 🌱 Currently learning Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="50" height="20" /> and C# <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png" width="20" height="20" />
 
 For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) or my 📝[CV/Resume](https://github.com/dfzfz7//dfzfz7/blob/main/DanielFernandezEnglishCV.pdf)
 <br>
