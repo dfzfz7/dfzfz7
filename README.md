@@ -6,7 +6,7 @@
 - 💼 17 years of experience in tourism and hospitality
 - 🌍 I have lived and work in different countries
 - 🏡 Living near Barcelona
-- 🌱 Currently learning Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="16" height="16" /> and C# <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/c#.png" width="16" height="16" />
+- 🌱 Currently learning Unity <img title="Unity" alt="Unity" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="16" height="16" /> and C# <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png.png" width="16" height="16" />
 
 For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/in/fernandezdaniel85/) or my 📝[CV/Resume](https://github.com/dfzfz7//dfzfz7/blob/main/DanielFernandezEnglishCV.pdf)
 <br>
@@ -15,7 +15,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 
 <p>
   <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="60" height="50" />
-  <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/c#.png" width="50" height="50" />
+  <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png" width="50" height="50" />
   <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
   <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="40" height="50" />
