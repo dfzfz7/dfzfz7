@@ -14,7 +14,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
 ### My skills include:
 
 <p>
-  <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="60" height="50" />
+  <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="80" height="50" />
   <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png" width="50" height="50" />
   <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
