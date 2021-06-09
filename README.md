@@ -17,7 +17,7 @@ For more details checkout my ➡️ [LinkedIn profile](https://www.linkedin.com/
   <img title="Unity" alt="Untiy" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/unity.png" width="100" height="50" />
   <img title="C#" alt="C#" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/csharp.png" width="50" height="50" />  
   <img title="3DSMax" alt="3DSMax" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/3DSmax.jpg" width="50" height="50" />
-  <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/android_studio.png" width="50" height="50" />
+  <img title="Android Studio" alt="Android Studio" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/androidStudio.png" width="50" height="50" />
   <img title="Java" alt="Java" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/java.png" width="30" height="50" />
   <img title="Spring" alt="Spring" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/spring.png" width="40" height="50" />  
   <img title="MongoDB" alt="MongoDB" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/mongodb.png" width="50" height="50" />  
